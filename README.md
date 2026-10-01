@@ -40,7 +40,7 @@ This helps keep the response closer to the actual source instead of depending on
 - Python
 - LangChain
 - Hugging Face embeddings
-- FAISS
+- qdrant
 - FastAPI
 - Docker
 - D2L open-source book
@@ -136,7 +136,7 @@ Text chunks
       ↓
 Embeddings
       ↓
-FAISS
+qdrant
       ↓
 User question
       ↓
