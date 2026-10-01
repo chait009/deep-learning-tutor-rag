@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-qdrant
+
+sentence-transformers
+qdrant-client
+
+fastapi
+uvicorn
+streamlit
+
+python-dotenv
+pydantic
+requests
