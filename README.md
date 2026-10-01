@@ -4,7 +4,7 @@ This is a small RAG project I built using the **Dive into Deep Learning (D2L)** 
 
 The idea is simple: instead of asking an LLM a deep learning question directly, the application first searches the D2L content, finds the most relevant sections, and then uses that context to generate the answer.
 
-I built this mainly to understand how a real RAG pipeline works end to end.
+I built this mainly to understand how a real RAG pipeline works end to end will end more features in future
 
 ## What this project does
 
