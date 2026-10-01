@@ -1,3 +1,15 @@
+This project uses content from Dive into Deep Learning by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola.
+
+The book is available under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
+
+The sample and reference code from the D2L project is provided under its modified MIT license.
+
+Original project:
+
+https://github.com/d2l-ai/d2l-en
+
+This project is not affiliated with or maintained by the D2L authors. It uses the book as the knowledge source for learning and demonstrating a RAG application.
+
 # Deep Learning Tutor RAG
 
 This is a small RAG project I built using the **Dive into Deep Learning (D2L)** book as the knowledge source.
