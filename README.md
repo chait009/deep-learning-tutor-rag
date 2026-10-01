@@ -149,6 +149,9 @@ Final answer
 
 I used LangChain to connect the retrieval and generation parts instead of building every part manually.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a191cde4-889f-438b-aec7-c55703c3a075" />
+
+
 ## Example
 
 Question:
